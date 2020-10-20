@@ -1,0 +1,23 @@
+Pipfile.lock
+
+# Byte-compiled / optimized / DLL files
+
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+env/
+build/
+develop-eggs/
+dist/
+downloads/
+effs/
+.eggs/
+lib/
+lib64/
+parts/
