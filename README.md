@@ -14,8 +14,8 @@ shotan uses the configuration file created by the AWS cli e.g.,
 'aws configure --profile shotan'
 
 ## Running
-'pipenv run "python shotan/shotan.p ,command>
-<--project=PROJECT>"'
+'pipenv run "python shotan/shotan.py <command> <--project=PROJECT>"'
 
-*command* is list, start, or stop
+*command* is instances, volumes, or snapshots
+*subcommand* - depends on command
 *project* is optional
