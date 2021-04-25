@@ -1,6 +1,6 @@
 # snapshotanalyzer
 
-Demo project to manage AWS EC2 instance snapshots
+Project to manage AWS EC2 instance snapshots
 
 ## About
 
